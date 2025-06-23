@@ -14,7 +14,7 @@ A very simple command-line tool for mass managing App.Axie marketplace listings,
 - Node.js 18+
 - npm, pnpm, yarn or bun
 - Access Token from <https://app.axieinfinity.com/>
-- (Optional) SkyMavis API Key for enhanced rate limits (from <https://developers.skymavis.com/>)
+- SkyMavis API Key from <https://developers.skymavis.com/>
 
 ## Installation
 
@@ -45,7 +45,7 @@ A very simple command-line tool for mass managing App.Axie marketplace listings,
    ```env
    PRIVATE_KEY=your_ronin_wallet_private_key
    ACCESS_TOKEN=your_app.axie_access_token
-   SKYMAVIS_DAPP_KEY=your_skymavis_api_key (optional)
+   SKYMAVIS_DAPP_KEY=your_skymavis_api_key
    ```
 
 ## Usage
